@@ -1,0 +1,1 @@
+# generateInterface.ts-
